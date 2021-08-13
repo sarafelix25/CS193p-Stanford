@@ -5,6 +5,7 @@
 ## Cassini
 - ScrollView para ajustar uma imagem
 - Zoom
+https://github.com/sarafelix25/CS193p-Stanford/blob/dcd8b6f085667ef4552b9f1cfccac0201f47b9c8/Cassini-master/README.md
 ![](cassini.gif)
 
 ## Concentration
