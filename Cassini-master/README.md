@@ -1,5 +1,5 @@
 # Cassini
 - ScrollView para ajustar uma imagem
-- Aplicando o zoom
+- Zoom
 
 ![](cassini.gif)
