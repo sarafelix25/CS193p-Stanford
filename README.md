@@ -14,5 +14,5 @@
 ## EmojiArt
 - Drag and Drop 
 - UITableView 
-- UICollectionView
+- UICollectionView 
  ![](EmojiArt.gif)
